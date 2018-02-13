@@ -70,11 +70,6 @@ namespace Snake
 
 
             
-
-
-
-
-
             Console.ReadLine();
             
         }
